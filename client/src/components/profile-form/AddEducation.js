@@ -29,7 +29,7 @@ const AddEducation = ({ addEducation, history}) =>{
 			   Add Your Education
 			</h1>
       <p className="lead">
-        <i className="fas fa-code-branch"></i> Add any school/bootcamp
+        <i className="fas fa-code-branch"></i> Add any college/school
         you have attended
       </p>
       <small>* = required field</small>
@@ -71,7 +71,7 @@ const AddEducation = ({ addEducation, history}) =>{
           ></textarea>
         </div>
         <input type="submit" className="btn btn-primary my-1" />
-        <a className="btn btn-light my-1" href="dashboard.html">Go Back</a>
+        <a className="btn btn-light my-1" href="/dashboard">Go Back</a>
       </form>
 		
 		</Fragment>

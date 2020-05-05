@@ -1,0 +1,6 @@
+{
+	"mongoURI": "mongodb+srv://rev123:rev123@cluster0-gn2ix.mongodb.net/test?retryWrites=true&w=majority",
+	"jwtToken": "secret123",
+	"githubClientId": "8b5bec0014f38b4a9667",
+	"githubSecret": "60362357c834bd09ef46f6ffc85f3ec600319311"
+}
